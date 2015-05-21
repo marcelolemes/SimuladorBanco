@@ -1,0 +1,5 @@
+C:\Users\Colombo\Documents\Faculdade\ALGORITMO\Banco\Banco\bin\Release\Banco.exe
+C:\Users\Colombo\Documents\Faculdade\ALGORITMO\Banco\Banco\bin\Release\Banco.pdb
+C:\Users\Colombo\Documents\Faculdade\ALGORITMO\Banco\Banco\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Colombo\Documents\Faculdade\ALGORITMO\Banco\Banco\obj\x86\Release\Banco.exe
+C:\Users\Colombo\Documents\Faculdade\ALGORITMO\Banco\Banco\obj\x86\Release\Banco.pdb
